@@ -1,0 +1,54 @@
+{
+ "n_variants": 8117,
+ "n_positions": 1368,
+ "coverage_of_19xL": 0.31228839642967066,
+ "variants_per_position_min_max": [
+  4,
+  7
+ ],
+ "score_quantiles_1_25_50_75_99": [
+  -1.8844314429758826,
+  -0.5567792476848116,
+  -0.2654328586114716,
+  0.034753058048968,
+  1.5442058560299452
+ ],
+ "score_min_max": [
+  -6.4511200069759935,
+  3.915031153832972
+ ],
+ "kurtosis_excess": 10.216399710537061,
+ "binarization_cutoff_is_median": [
+  -0.2653460077453978,
+  -0.2654328586114716
+ ],
+ "frac_measured_single_nt_reachable": 1.0,
+ "frac_all_aa_pairs_single_nt_reachable": 0.39473684210526316,
+ "possible_single_nt_subs_upper_bound": 10862,
+ "spearman_nvariants_vs_position_mean": 0.032595240430645774,
+ "R2_position_mean_in_sample": 0.22071461412666604,
+ "spearman_LOO_position_mean": 0.16232770631323684,
+ "spearman_neighbour_window_pm_3": 0.14344190360197287,
+ "spearman_neighbour_window_pm_15": 0.1569080591143164,
+ "spearman_neighbour_window_pm_30": 0.1526596287058755,
+ "domain_mean_score": {
+  "HNH": -0.329,
+  "PI": -0.146,
+  "REC": -0.224,
+  "RuvC": -0.372
+ },
+ "domain_n": {
+  "HNH": 794,
+  "PI": 1589,
+  "REC": 3917,
+  "RuvC": 1817
+ },
+ "mut_aa_mean_score_extremes": {
+  "Y": -0.363,
+  "P": -0.343,
+  "C": -0.316,
+  "I": -0.212,
+  "E": -0.207,
+  "V": -0.175
+ }
+}
